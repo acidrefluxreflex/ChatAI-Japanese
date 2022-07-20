@@ -1,5 +1,7 @@
 # ChatAI-Japanese
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb](https://colab.research.google.com/github/acidrefluxreflex/ChatAI-Japanese/blob/main/ChatBot.ipynb#scrollTo=Y5ti1q1fNOQ4))    
+
 ## 概要
 日本語言語モデル「Japanese-gpt-1b」を使用した会話応答プログラムです。AIに対して名前や趣味、職業などの簡単なプロフィール設定を行い、それに即した会話をさせることを目的としています。
 
